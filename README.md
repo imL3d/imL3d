@@ -1,4 +1,4 @@
-### Hi there 👋
+professional CTF writeup writer by this point 😂
 
 <!--
 **imL3d/imL3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
