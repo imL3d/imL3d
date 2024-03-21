@@ -1,6 +1,6 @@
 professional CTF writeup writer by this point 😂
 
-check out my [CTF group](https://github.com/orgs/C0d3-Bre4k3rs/) 💪
+check out my [CTF group](https://github.com/C0d3-Bre4k3rs/) 💪
 
 <!--
 **imL3d/imL3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
